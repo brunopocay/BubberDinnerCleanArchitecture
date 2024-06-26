@@ -1,0 +1,17 @@
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Infrastructure\bin\Debug\net6.0\BubberDinner.Infrastructure.deps.json
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Infrastructure\bin\Debug\net6.0\BubberDinner.Infrastructure.dll
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Infrastructure\bin\Debug\net6.0\BubberDinner.Infrastructure.pdb
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Infrastructure\obj\Debug\net6.0\BubberDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Infrastructure\obj\Debug\net6.0\BubberDinner.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Infrastructure\obj\Debug\net6.0\BubberDinner.Infrastructure.AssemblyInfo.cs
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Infrastructure\obj\Debug\net6.0\BubberDinner.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Infrastructure\obj\Debug\net6.0\BubberDinner.Infrastructure.dll
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Infrastructure\obj\Debug\net6.0\refint\BubberDinner.Infrastructure.dll
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Infrastructure\obj\Debug\net6.0\BubberDinner.Infrastructure.pdb
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Infrastructure\obj\Debug\net6.0\ref\BubberDinner.Infrastructure.dll
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Infrastructure\bin\Debug\net6.0\BubberDinner.Application.dll
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Infrastructure\bin\Debug\net6.0\BubberDinner.Domain.dll
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Infrastructure\bin\Debug\net6.0\BubberDinner.Application.pdb
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Infrastructure\bin\Debug\net6.0\BubberDinner.Domain.pdb
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Infrastructure\obj\Debug\net6.0\BubberDinner.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Infrastructure\obj\Debug\net6.0\BubberDi.89008AC4.Up2Date

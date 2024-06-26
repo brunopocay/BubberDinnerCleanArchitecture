@@ -1,0 +1,15 @@
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Application\bin\Debug\net6.0\BubberDinner.Application.deps.json
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Application\bin\Debug\net6.0\BubberDinner.Application.dll
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Application\bin\Debug\net6.0\BubberDinner.Application.pdb
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Application\obj\Debug\net6.0\BubberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Application\obj\Debug\net6.0\BubberDinner.Application.AssemblyInfoInputs.cache
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Application\obj\Debug\net6.0\BubberDinner.Application.AssemblyInfo.cs
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Application\obj\Debug\net6.0\BubberDinner.Application.csproj.CoreCompileInputs.cache
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Application\obj\Debug\net6.0\BubberDinner.Application.dll
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Application\obj\Debug\net6.0\refint\BubberDinner.Application.dll
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Application\obj\Debug\net6.0\BubberDinner.Application.pdb
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Application\obj\Debug\net6.0\ref\BubberDinner.Application.dll
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Application\bin\Debug\net6.0\BubberDinner.Domain.dll
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Application\bin\Debug\net6.0\BubberDinner.Domain.pdb
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Application\obj\Debug\net6.0\BubberDinner.Application.csproj.AssemblyReference.cache
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Application\obj\Debug\net6.0\BubberDi.372ACCC9.Up2Date
