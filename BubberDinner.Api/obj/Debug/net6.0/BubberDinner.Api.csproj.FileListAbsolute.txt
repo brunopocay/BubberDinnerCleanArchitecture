@@ -41,3 +41,15 @@ C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Api\bin\Debug\net6.0\
 C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
 C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Api\obj\Debug\net6.0\BubberDinner.Api.sourcelink.json
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Api\bin\Debug\net6.0\ErrorOr.dll
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Api\bin\Debug\net6.0\MediatR.dll
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Api\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Api\bin\Debug\net6.0\Mapster.dll
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Api\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Api\bin\Debug\net6.0\Mapster.DependencyInjection.dll
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Api\obj\Debug\net6.0\BubberDinner.Api.MvcApplicationPartsAssemblyInfo.cs

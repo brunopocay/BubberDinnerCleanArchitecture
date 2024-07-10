@@ -15,3 +15,4 @@ C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Infrastructure\bin\De
 C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Infrastructure\bin\Debug\net6.0\BubberDinner.Domain.pdb
 C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Infrastructure\obj\Debug\net6.0\BubberDinner.Infrastructure.csproj.AssemblyReference.cache
 C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Infrastructure\obj\Debug\net6.0\BubberDi.89008AC4.Up2Date
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Infrastructure\obj\Debug\net6.0\BubberDinner.Infrastructure.sourcelink.json

@@ -8,6 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Mapster" Version="7.4.0" />
+    <PackageReference Include="Mapster.DependencyInjection" Version="1.0.1" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 
@@ -15,6 +17,30 @@
     <ProjectReference Include="..\BubberDinner.Application\BubberDinner.Application.csproj" />
     <ProjectReference Include="..\BubberDinner.Contracts\BubberDinner.Contracts.csproj" />
     <ProjectReference Include="..\BubberDinner.Infrastructure\BubberDinner.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Middleware\**" />
+    <Compile Remove="Filters\**" />
+    <Compile Remove="Controllers\Commands\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="Middleware\**" />
+    <EmbeddedResource Remove="Filters\**" />
+    <EmbeddedResource Remove="Controllers\Commands\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Middleware\**" />
+    <Content Remove="Filters\**" />
+    <Content Remove="Controllers\Commands\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Middleware\**" />
+    <None Remove="Filters\**" />
+    <None Remove="Controllers\Commands\**" />
   </ItemGroup>
 
 </Project>

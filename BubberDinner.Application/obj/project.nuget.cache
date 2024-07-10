@@ -1,9 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "2UzcH7lVB5r80p3T+AL+Xi0XhxfsjASdOIde8AusTTVC31l6wyWPf+BTehf9GZItPJ7zKs388/ThHXTv1B7hIQ==",
+  "dgSpecHash": "/xUBJDit65hnwa+Fg2D+6bkQMkXQifffjyhaAUpEiuGsnZ3pEYa8lGZUIiuGsuUxXcM31OLCXFqJ8oiFWsRZGA==",
   "success": true,
   "projectFilePath": "C:\\Users\\brunopocay\\source\\repos\\BubberDinner\\BubberDinner.Application\\BubberDinner.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\brunopocay\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
+    "C:\\Users\\brunopocay\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\brunopocay\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\brunopocay\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\brunopocay\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
+    "C:\\Users\\brunopocay\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\brunopocay\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\brunopocay\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
   ],
   "logs": []

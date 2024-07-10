@@ -9,3 +9,5 @@ C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Domain\obj\Debug\net6
 C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Domain\obj\Debug\net6.0\refint\BubberDinner.Domain.dll
 C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Domain\obj\Debug\net6.0\BubberDinner.Domain.pdb
 C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Domain\obj\Debug\net6.0\ref\BubberDinner.Domain.dll
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Domain\obj\Debug\net6.0\BubberDinner.Domain.csproj.AssemblyReference.cache
+C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Domain\obj\Debug\net6.0\BubberDinner.Domain.sourcelink.json

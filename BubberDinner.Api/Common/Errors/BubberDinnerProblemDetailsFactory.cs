@@ -1,10 +1,12 @@
 using System.Diagnostics;
+using BubberDinner.Api.Common.Http;
+using ErrorOr;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Infrastructure;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 using Microsoft.Extensions.Options;
 
-namespace BubberDinner.Api.Errors;
+namespace BubberDinner.Api.Common.Errors;
 public class BubberDinnerProblemDetailsFactory : ProblemDetailsFactory
 {
     private readonly ApiBehaviorOptions _options;
@@ -34,7 +36,26 @@ public class BubberDinnerProblemDetailsFactory : ProblemDetailsFactory
         ApplyProblemDetailsDefaults(httpContext, problemDetails, statusCode.Value);
         return problemDetails;
     }
-    
+
+    public override ValidationProblemDetails CreateValidationProblemDetails(HttpContext httpContext,
+        ModelStateDictionary modelStateDictionary, int? statusCode = null, string? title = null, string? type = null,
+        string? detail = null, string? instance = null)
+    {
+        statusCode ??= StatusCodes.Status400BadRequest;
+
+        var validationProblemDetails = new ValidationProblemDetails(modelStateDictionary)
+        {
+            Status = statusCode,
+            Title = title ?? "One or more validation errors occurred.",
+            Type = type,
+            Detail = detail,
+            Instance = instance
+        };
+
+        ApplyProblemDetailsDefaults(httpContext, validationProblemDetails, statusCode.Value);
+        return validationProblemDetails;
+    }
+
     private void ApplyProblemDetailsDefaults(HttpContext httpContext, ProblemDetails problemDetails, int statusCode)
     {
         problemDetails.Status ??= statusCode;
@@ -51,13 +72,11 @@ public class BubberDinnerProblemDetailsFactory : ProblemDetailsFactory
             problemDetails.Extensions["traceId"] = traceId;
         }
 
-        problemDetails.Extensions.Add("customproperty", "customvalue");
-    }
-    
-    public override ValidationProblemDetails CreateValidationProblemDetails(HttpContext httpContext,
-        ModelStateDictionary modelStateDictionary, int? statusCode = null, string? title = null, string? type = null,
-        string? detail = null, string? instance = null)
-    {
-        throw new NotSupportedException("This method is not supported.");
+        var errors = httpContext?.Items[HttpContextItemsKeys.Errors] as List<Error>;
+
+        if (errors is not null)
+        {
+            problemDetails.Extensions.Add("errorCodes", errors.Select(e => e.Code));
+        }
     }
 }
