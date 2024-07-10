@@ -1,2 +1,62 @@
-*.dll
-*.pdb
+# Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+# The packages folder can be ignored because of the /restore flag
+**/packages/*/ 
+*.ncrunch*
+.*.ncrunch*
+ncrunch-solution.config
+
+# NCrunch
+_ncrunch_*
+crunch.xml
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+# Rider
+.idea/
+
+# If you're using Clean Architecture structure
+# Add custom ignores based on your solution structure
+BubberDinner.Api/bin/
+BubberDinner.Api/obj/
+BubberDinner.Application/bin/
+BubberDinner.Application/obj/
+BubberDinner.Domain/bin/
+BubberDinner.Domain/obj/
+BubberDinner.Infrastructure/bin/
+BubberDinner.Infrastructure/obj/

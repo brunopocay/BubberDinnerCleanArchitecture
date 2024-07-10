@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BubberDinner.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+152bfd4d8eac363d425a2215aacdd0383da5fc51")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c746e2ed19bd668fcad9b9714b742fe9ac4831e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("BubberDinner.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BubberDinner.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

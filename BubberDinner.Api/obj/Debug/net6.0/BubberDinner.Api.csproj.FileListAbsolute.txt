@@ -52,4 +52,3 @@ C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Api\bin\Debug\net6.0\
 C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Api\bin\Debug\net6.0\FluentValidation.dll
 C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
 C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
-C:\Users\brunopocay\source\repos\BubberDinner\BubberDinner.Api\obj\Debug\net6.0\BubberDinner.Api.MvcApplicationPartsAssemblyInfo.cs
